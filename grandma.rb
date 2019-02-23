@@ -16,5 +16,5 @@ phrase =gets.chomp
 def speak_to_grandma(phrase.upcase)
   
   if phrase == "where are you, grandma"
-    puts 
+    puts ""
     
